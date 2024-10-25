@@ -1,3 +1,3 @@
 # Bug-Reports
 Bug-Reports
-Sample bugs reported by me during testing PrestaShop App (Coders Lab Academy)
+Sample bugs reported by me during testing 
